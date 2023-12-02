@@ -3,3 +3,4 @@ web development
 - implementasi
 - presentasi
 - implementasi ke user
+- selesai
