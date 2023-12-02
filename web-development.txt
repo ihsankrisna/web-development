@@ -1,5 +1,5 @@
 web development
 - analisis
-- tujuan 
 - implementasi
 - presentasi
+- implementasi ke user
